@@ -24,8 +24,28 @@ Para a escrita do código foi utilizada a IDE Eclipse na versão: 2021-12 (4.22.
 
 A linguagem de programação utilizada foi o Java JDK-11.0.1 LTS.
 
-# Como baixar e executar os arquivos do projeto
+# Como executar os arquivos do projeto
 
-Você pode baixar pelos links da cada algoritmo:
+Após baixar o arquivo do projeto em alguma pasta do seu computador, por exemplo Documentos, descompacte o arquivo que terá o seguinte nome: Desafio-de-Programacao-master.zip.
 
-escadaAsterisco.java - 
+Extraia a pasta Desafio de Programacao Capgemini e salve no seu computador.
+
+Para executar o projeto no seu computador, você deverá instalar o Eclipse na versão descrita acima ou superior e o jdk-11.0.1 ou superior.
+
+Acesse o Eclipse, e no menu superior, clique em File e clique em Open Projects from a file systems.
+
+Uma nova janela se abrira.
+
+No alto da janela aparece a opção Importe source e dois botões ao lado desta combo. Clique no botão Directory e vá até o local aonde você salvou a pasta Desafio de Programacao Capgemini.
+
+Clique no nome da pasta uma vez e clique no botão Selecionar pasta.
+
+A combo Importe source ira mostrar o caminho completo da pasta selecionada.
+
+Mais abaixo verifique se a caixa de marcação ao lado do nome da pasta está marcada, caso não esteja marcada clique para marca-la.
+
+Deixe todo o resto como está e clique no botão Finish.
+
+Pronto o projeto estára salvo no Eclipse.
+
+Caso você não veja os arquivos do projeto, vá ao menu na opção Window e clique em Show view e depois em Project Explorer.
